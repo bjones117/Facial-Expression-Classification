@@ -1,4 +1,4 @@
-# Facial-Expression-Classification
+# Facial Expression Classification
 
 I used the FER 2013 data which included 7 classes of facial expressions:
   -Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise
